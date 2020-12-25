@@ -27,3 +27,14 @@ D:\Desktop\电子族谱管理系统 - 副本 (2)\电子族谱管理系统\Dal\bi
 D:\Desktop\电子族谱管理系统 - 副本 (2)\电子族谱管理系统\Dal\obj\Debug\Dal.csprojResolveAssemblyReference.cache
 D:\Desktop\电子族谱管理系统 - 副本 (2)\电子族谱管理系统\Dal\obj\Debug\Dal.dll
 D:\Desktop\电子族谱管理系统 - 副本 (2)\电子族谱管理系统\Dal\obj\Debug\Dal.pdb
+D:\DeskTop\电子族谱管理系统\Dal\bin\Debug\Dal.dll
+D:\DeskTop\电子族谱管理系统\Dal\bin\Debug\Dal.pdb
+D:\DeskTop\电子族谱管理系统\Dal\bin\Debug\Common.dll
+D:\DeskTop\电子族谱管理系统\Dal\bin\Debug\Model.dll
+D:\DeskTop\电子族谱管理系统\Dal\bin\Debug\Common.pdb
+D:\DeskTop\电子族谱管理系统\Dal\bin\Debug\Model.pdb
+D:\DeskTop\电子族谱管理系统\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+D:\DeskTop\电子族谱管理系统\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+D:\DeskTop\电子族谱管理系统\Dal\obj\Debug\Dal.csproj.CopyComplete
+D:\DeskTop\电子族谱管理系统\Dal\obj\Debug\Dal.dll
+D:\DeskTop\电子族谱管理系统\Dal\obj\Debug\Dal.pdb
